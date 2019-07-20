@@ -1,16 +1,4 @@
 {
-<<<<<<< HEAD
-    "compilerOptions": {
-        "target": "es6",
-        "module": "commonjs",
-        "sourceMap": true,
-        "outDir": "build",
-        "rootDir": "src"
-    },
-    "include": [
-      "src/**/*"
-    ]
-=======
   "compileOnSave": false,
   "compilerOptions": {
     "baseUrl": "./src",
@@ -30,5 +18,4 @@
       "dom"
     ]
   }
->>>>>>> b6d2bcc8fa7a95817fb4c21bbef291825558a810
 }
